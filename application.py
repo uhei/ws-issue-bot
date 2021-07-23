@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Bot listening for Webhook events from Gitlab for Issue
-   and Merge Request events to add labels to issues
+   and Merge Request events to add labels to issues"""
 
-   Copyright 2021 Uli Heilmeier <uh@heilmeier.eu>
-
-   SPDX-License-Identifier: GPL-3.0-or-later"""
+# Copyright 2021 Uli Heilmeier <uh@heilmeier.eu>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 
 import os
