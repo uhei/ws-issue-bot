@@ -12,7 +12,7 @@ When there is a new Merge Request which mentions an issue, the bot set label ws-
 
 When a issue is closed and it was closed by a MR label ws-status::fixed is set. Otherwise label ws-status::closed is set.
 
-The label ws-status::waiting-for-response can't be automated. Therefore it has to be set automatically.
+The label ws-status::waiting-for-response can't be automated. Therefore it has to be set manually.
 
 ### How to run it
 
